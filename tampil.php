@@ -8,6 +8,11 @@
 </head>
 <body>
     <h1>INI ADALAH HASIL EDIT DARI NEW-BRANCH1</H1>
+    
+    <p> Jangan terlalu mengorbankan segalanya,<br>
+        terkadang tidak semua pengorbanan diperlukan
+    </p>
+    
     <div class="bg">
         <div class="tengah">
             <?php
