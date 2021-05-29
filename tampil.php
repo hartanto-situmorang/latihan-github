@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>INI ADALAH HASIL EDIT DARI NEW-BRANCH1</H1>
+    <p>
+    Untuk mencapai sebuah kesuksesan terbesar,<br>
+    diperlukan pengorbanan terbesar juga
+    </p>
     <div class="bg">
         <div class="tengah">
             <?php
