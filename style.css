@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+.bg{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+    height: 700px;
+}
+.tengah{
+    position: fixed;
+    width: 70%; 
+    background: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 30px;
+    border-color: blue;
+    border-radius: 4px;
+}
