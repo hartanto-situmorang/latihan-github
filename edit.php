@@ -7,6 +7,7 @@
         foreach($db->edit($_GET['id']) as $d){
         ?>
         <div class="tengah">
+            <h1>Tambahan dari branch new-branch</h1>
         <table>
             <tr>
                 <td>prodi</td>
